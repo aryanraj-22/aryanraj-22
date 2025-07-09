@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">A Passionate Btech CSE Student from Uttarakhand,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanraj-22&label=Profile%20views&color=0e75b6&style=flat" alt="aryanraj-22" /> </p>
+
 
 - I'm pursuing Btech Computer Science from **Graphic Era Hill University,Dehradun**
 
