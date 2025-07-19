@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aryan2210raj@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1j-u8jDDK6ostY9AKV3ozNOz9lsFfBkU1/view](https://drive.google.com/file/d/1j-u8jDDK6ostY9AKV3ozNOz9lsFfBkU1/view)
+- 📄 My Resume [https://drive.google.com/file/d/1j-u8jDDK6ostY9AKV3ozNOz9lsFfBkU1/view](https://drive.google.com/file/d/1wT5I_2Q2xgCtJrtBcZlIT-uEYJVKtoOE/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
